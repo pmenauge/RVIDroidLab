@@ -1,0 +1,2 @@
+include ':app', ':jsonrpc4j'
+project(':jsonrpc4j').projectDir = new File('app/libs/jsonrpc4j')
