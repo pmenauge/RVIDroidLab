@@ -18,9 +18,6 @@ public class VehicleConfig {
     String VIN = "15232532623621";
     String RVI_DOMAIN_PREFIX = "genivi.org";
     String RVI_SERVICE_EDGE_URL = "http://192.168.50.31:9001";
-    // String RVI_SERVICE_EDGE_URL = "http://192.168.50.195:9001";
-    // String RVI_SERVICE_EDGE_URL = "http://80.15.92.171:9001";
-    // String RVI_SERVICE_EDGE_URL = "http://192.168.0.48:9001";
 
     // Config data for position reporting service
     int DEFAULT_REPORTING_PERIOD_IN_MS = 5000;
